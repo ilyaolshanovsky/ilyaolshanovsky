@@ -1,9 +1,8 @@
 <img src="https://badge42.herokuapp.com/api/stats/byuri?privacyEmail=true%22"/>
 
-<!--
-**ilyaolshanovsky/ilyaolshanovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 42 School
 
-Here are some ideas to get you started:
+**Проекты основного обучения:**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
